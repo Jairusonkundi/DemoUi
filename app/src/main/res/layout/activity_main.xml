@@ -101,6 +101,7 @@
                     android:id="@+id/btnReset"
                     android:backgroundTint="#F44336"
                     android:layout_width="wrap_content"
+                    app:cornerRadius="20dp"
                     android:layout_height="wrap_content"
                     android:text="Reset"
                     android:layout_marginVertical="15sp"
