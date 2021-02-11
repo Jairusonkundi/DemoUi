@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item name="regNo" type="id">regNo</item>
+    <!--<item name="regNo" type="id">regNo</item>
     <item name="regNoInputLay" type="id">regNoLay</item>
     <item name="password" type="id">password</item>
     <item name="imageView3" type="id">imageView3</item>
     <item name="cardView" type="id">cardView</item>
     <item name="passwordInputLay" type="id">textInputLayout3</item>
     <item name="btnLogIn" type="id">button</item>
-    <item name="btnReset" type="id">button2</item>
+    <item name="btnReset" type="id">button2</item>-->
 </resources>
